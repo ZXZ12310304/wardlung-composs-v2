@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "D:\med\app.py", line 27, in <module>
+    from fastapi import FastAPI, Request, Response, UploadFile, File, Form
+ModuleNotFoundError: No module named 'fastapi'

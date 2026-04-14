@@ -1,0 +1,6 @@
+[startup] Local URL:  http://localhost:8010/
+[startup] Local LAN:  http://192.168.61.141:8010/
+[startup] Public URL: disabled (ENABLE_PUBLIC_TUNNEL=0).
+INFO:     127.0.0.1:59624 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49716 - "GET / HTTP/1.1" 200 OK
+
